@@ -16,11 +16,17 @@ README for Npcap
 * [**VividCortex**: a database monitor software](https://docs.vividcortex.com/getting-started/advanced-installation/)
 * [**Elastic Beats**: a network agent for Logstash or Elasticsearch](https://www.elastic.co/products/beats), other beats include: [ApacheBeat](https://github.com/radoondas/apachebeat)
 * [**ShinraMeter**: a DPS meter for the game Tera](https://github.com/neowutran/ShinraMeter)
+* [**Scapy**:  a Python-based interactive packet manipulation program and library](https://github.com/secdev/scapy/pull/524)
+* [**Malboxes**:  a Tool to build malware analysis virtual machines](https://github.com/GoSecure/malboxes/pull/26)
+* [**SharpPcap**: a C# wrapper for WinPcap/Npcap](https://github.com/chmorgan/sharppcap/issues/15)
+
+### Coordinated with:
+
+* [**Libpcap**: the packet capture API shared by various systems like Linux, Windows](https://github.com/the-tcpdump-group/libpcap)
 
 ### Will be supported by:
 
 * [**Aircrack-ng**: a suite of WiFi network security tools](https://github.com/aircrack-ng/aircrack-ng/issues/68)
-* [**SharpPcap**: a C# wrapper for WinPcap/Npcap](https://github.com/chmorgan/sharppcap/issues/15)
 * [**Pcap4J**: a JAVA wrapper for WinPcap/Npcap](https://github.com/kaitoy/pcap4j)
 
 ## Reported by media:
@@ -33,7 +39,8 @@ README for Npcap
 
 ## Where can I get Npcap?
 
-* [**Our GitHub release page**](https://github.com/nmap/npcap/releases)
+* [**Offcial site**](https://nmap.org/npcap/)
+* [**GitHub releases**](https://github.com/nmap/npcap/releases)
 * [**Chocolatey**](https://chocolatey.org/packages/npcap/)
 
 ## Notice
