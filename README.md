@@ -18,6 +18,7 @@ README for Npcap
 * [**Elastic Beats**: a network agent for Logstash or Elasticsearch](https://www.elastic.co/products/beats), other beats include: [ApacheBeat](https://github.com/radoondas/apachebeat)
 * [**ShinraMeter**: a DPS meter for the game Tera](https://github.com/neowutran/ShinraMeter)
 * [**Scapy**:  a Python-based interactive packet manipulation program and library](https://github.com/secdev/scapy/pull/524)
+* [**pypcap**:  python libpcap module, forked from code.google.com/p/pypcap, now actively maintained](https://github.com/pynetwork/pypcap#windows-notes)
 * [**Malboxes**:  a Tool to build malware analysis virtual machines](https://github.com/GoSecure/malboxes/pull/26)
 * [**SharpPcap**: a C# wrapper for WinPcap/Npcap](https://github.com/chmorgan/sharppcap/issues/15)
 
