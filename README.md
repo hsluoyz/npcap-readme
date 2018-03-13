@@ -10,7 +10,8 @@ README for Npcap
 
 ### Recommended by:
 
-* [**Microsoft Windows NDIS Team**](https://social.msdn.microsoft.com/Forums/vstudio/en-US/926c3d85-82fc-4779-bb96-a4e71c9c7a51/a-possible-bug-with-ndis-and-npf-winpcap-is-ndis-to-blame?forum=wdk)
+* [**Microsoft NDIS Team‘s Leader: Jeffrey Tippet**](https://social.msdn.microsoft.com/Forums/vstudio/en-US/926c3d85-82fc-4779-bb96-a4e71c9c7a51/a-possible-bug-with-ndis-and-npf-winpcap-is-ndis-to-blame?forum=wdk)
+* [**Microsoft Azure**](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/troubleshooting-atp-known-issues)
 * [**Wireshark**: a network traffic capture tool](https://www.wireshark.org/)
 * [**McAfee**: a PC anti-virus software](https://kc.mcafee.com/corporate/index?page=content&id=KB87643)
 * [**VividCortex**: a database monitor software](https://docs.vividcortex.com/getting-started/advanced-installation/)
@@ -32,6 +33,7 @@ README for Npcap
 ## Reported by media:
 
 * [**FreeBuf**](http://www.freebuf.com/sectool/104701.html?utm_source=tuicool&utm_medium=referral)
+* [**Evolution of npcap (Gource Visualization)**](https://www.youtube.com/watch?v=yTGQvEoVVg0)
 
 ## Author's blog
 
